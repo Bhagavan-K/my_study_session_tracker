@@ -29,7 +29,7 @@ A Flutter mobile application for students to track and manage their study sessio
 1. Clone this repository:
 
     ```console
-    git clone https://github.com/Bhagavan-K/study_session_tracker.git
+    git clone https://github.com/Bhagavan-K/my_study_session_tracker.git
     ```
 2. Navigate to the project directory:
 
@@ -54,11 +54,15 @@ A Flutter mobile application for students to track and manage their study sessio
 
 To verify your Flutter installation:
 
+    ```console
     flutter doctor
+    ```
 
 To list connected devices:
 
+    ```console
     flutter devices
+    ```
 
 ## Project Structure
 
@@ -82,15 +86,25 @@ Some potential future improvements for this application:
 
 ## Screenshots
 
+Login:
 <img src="android/screenshots/login_screen.png" alt="Login Screen" width="20%">
+Signup:
 <img src="android/screenshots/signup_screen.png" alt="Signup Screen" width="20%">
+Forgot Password:
 <img src="android/screenshots/forgot_password.png" alt="Forgot Password" width="20%">
+Home:
 <img src="android/screenshots/home_screen.png" alt="Home Screen" width="20%">
+My Profile:
 <img src="android/screenshots/profile_page.png" alt="Profile Page" width="20%">
+Add Study Session:
 <img src="android/screenshots/add_study_session.png" alt="Add Study Session" width="20%">
+Edit Study Session:
 <img src="android/screenshots/edit_study_session.png" alt="Edit Study Session" width="20%">
+Statistics:
 <img src="android/screenshots/statistics_screen.png" alt="Statistics Screen" width="20%">
+Statistics cont:
 <img src="android/screenshots/statistics_screen_cont.png" alt="Statistics Screen Cont." width="20%">
+Logout:
 <img src="android/screenshots/logout_screen.png" alt="Logout Screen" width="20%">
 
 
@@ -98,4 +112,4 @@ Some potential future improvements for this application:
 
 [**Bhagavan K**] - [radhakrishna.kbns@gmail.com]
 
-Project Link: [https://github.com/Bhagavan-K/study_session_tracker](https://github.com/Bhagavan-K/study_session_tracker)
+**Project Link:** [https://github.com/Bhagavan-K/my_study_session_tracker](https://github.com/Bhagavan-K/my_study_session_tracker)
