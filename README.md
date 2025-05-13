@@ -54,15 +54,15 @@ A Flutter mobile application for students to track and manage their study sessio
 
 To verify your Flutter installation:
 
-    ```console
+  ```console
     flutter doctor
-    ```
+  ```
 
 To list connected devices:
 
-    ```console
+  ```console
     flutter devices
-    ```
+  ```
 
 ## Project Structure
 
