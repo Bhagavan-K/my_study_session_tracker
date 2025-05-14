@@ -99,6 +99,10 @@ Some potential future improvements for this application:
 
 ## Contact
 
-[**Bhagavan K**] - [radhakrishna.kbns@gmail.com]
+**Bhagavan NagaSai RadhaKrishna K** - [radhakrishna.kbns@gmail.com]
 
 **Project Link:** [https://github.com/Bhagavan-K/my_study_session_tracker](https://github.com/Bhagavan-K/my_study_session_tracker)
+
+**Demo Video YT Link:** [https://youtu.be/u4mH8PVSMJE]
+
+**PPT** Uploaded here in this repository [2023TM93657_CPAD_Asst.pptx](2023TM93657_CPAD_Asst.pptx)
